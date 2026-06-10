@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sparsh Jaiswal 👋</h1>
 
 <p align="center">
-  Web Developer & AI Enthusiast &nbsp;•&nbsp; B.Tech CSE @ Invertis University &nbsp;•&nbsp; Bareilly, India
+  Web Developer | AI Enthusiast | Vibe Coder &nbsp;•&nbsp; B.Tech CSE @ Invertis University &nbsp;•&nbsp; Bareilly, India
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 - **Freelance web development** — building and deploying websites for local businesses using HTML, CSS, JS and modern tools
 - **AI & civic tech** — designing tech solutions for real-world Indian infrastructure problems
 - **Learning in public** — sharpening my skills in Python, frontend dev, and AI systems
+- **Vibe coding** — transforming ideas into working application through AI-powered development, rapid prototyping, and continuous iteration.
 
 ---
 
@@ -46,7 +47,6 @@ A civic tech concept addressing inefficiencies in India's Public Distribution Sy
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sparsh089&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh089&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@ A civic tech concept addressing inefficiencies in India's Public Distribution Sy
 ## Let's connect
 
 <p>
-  <a href="mailto:spa6055@email.com">
+  <a href="mailto:www.spa6055@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
