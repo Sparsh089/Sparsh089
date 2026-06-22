@@ -61,6 +61,10 @@ A civic tech concept addressing inefficiencies in India's Public Distribution Sy
   <a href="www.linkedin.com/in/sparshjaiswal88">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sparsh_5197_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
