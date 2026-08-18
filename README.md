@@ -1,7 +1,15 @@
 <h1 align="center">Hey, I'm Sparsh Jaiswal 👋</h1>
 
+<hr>
+
 <p align="center">
-  Web Developer | AI Enthusiast | Vibe Coder &nbsp;•&nbsp; B.Tech CSE @ Invertis University &nbsp;•&nbsp; Bareilly, India
+  <img src="https://imgs.search.brave.com/Npa-IfzZpI33I0RPZHSM3hdAwSy3Ui4FgQRJQbxpHIw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/bWFnbmlmaWMuY29t/L3ByZW1pdW0tcGhv/dG8vbmlnaHQtb2Zm/aWNlLXdpdGgtcHJv/Z3JhbW1lci13b3Jr/aW5nLW11bHRpcGxl/LXNjcmVlbnMtc3Vy/cm91bmRlZC1ieS1j/aXR5LWxpZ2h0cy1w/bGFudHMtc2hvd18x/MDUzMjY4LTMwMTQx/LmpwZz9zZW10PWFp/c19oeWJyaWQmdz03/NDAmcT04MA" width="auto" height="auto" alt="Alt text">
+</p>   
+
+<hr>
+
+<p align="center">
+  Web Developer | AI Enthusiast | Java & C Programming &nbsp;•&nbsp; B.Tech CSE @ Invertis University &nbsp;•&nbsp; Bareilly, India
 </p>
 
 <p align="center">
@@ -14,31 +22,19 @@
 
 - **Freelance web development** — building and deploying websites for local businesses using HTML, CSS, JS and modern tools
 - **AI & civic tech** — designing tech solutions for real-world Indian infrastructure problems
-- **Learning in public** — sharpening my skills in Python, frontend dev, and AI systems
+- **Learning in public** — sharpening my skills in Python, frontend dev, Java, C and AI systems
 - **Vibe coding** — transforming ideas into working application through AI-powered development, rapid prototyping, and continuous iteration.
-
----
-
-## Projects
-
-### Goonj 2.0 — Lounge Bar Website
-A modern, responsive website for a lounge bar in Civil Lines, Bareilly. Built with a focus on atmosphere, menu display, and mobile experience.
-
-### The Posh Table — Restaurant Website
-Clean and elegant website for a vegetarian restaurant in Bareilly. Designed to attract diners and communicate the brand clearly.
-
-### GharRation — Smart Ration Delivery System
-A civic tech concept addressing inefficiencies in India's Public Distribution System. Proposes doorstep ration delivery with digital tracking, UPI integration, and Aadhaar verification — targeting NITI Aayog and the Ministry of Consumer Affairs.
-
+  
 ---
 
 ## Tech stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
