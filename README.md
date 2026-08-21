@@ -16,7 +16,7 @@
   I build websites for real businesses and explore how AI can solve everyday problems — especially in India's Tier 2 cities.
 </p>
 
----
+--
 
 ## What I do
 
@@ -63,7 +63,7 @@
   </a>
 </p>
 
----
+--
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sparsh089&color=blueviolet&style=flat" alt="Profile views"/>
