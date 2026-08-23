@@ -36,17 +36,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sparsh089&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-</p>
-
----
-
 ## Let's connect
 
 <p>
