@@ -16,7 +16,7 @@
   I build websites for real businesses and explore how AI can solve everyday problems — especially in India's Tier 2 cities.
 </p>
 
---
+<hr>
 
 ## What I do
 
@@ -25,7 +25,7 @@
 - **Learning in public** — sharpening my skills in Python, frontend dev, Java, C and AI systems
 - **Vibe coding** — transforming ideas into working application through AI-powered development, rapid prototyping, and continuous iteration.
   
----
+<hr>
 
 ## Tech stack
 
